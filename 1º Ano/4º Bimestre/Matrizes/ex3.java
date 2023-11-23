@@ -16,8 +16,8 @@ public class ex3 {
                     matriz[i][3] = soma;
                 }
                 System.out.print("[" + matriz[i][j] + "]");
-            }
-            System.out.println("");
+                       
+            } System.out.println("");
         }
     }
 }
